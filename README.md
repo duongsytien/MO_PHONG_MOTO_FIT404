@@ -12,3 +12,38 @@ Tạo repository công khai, đưa index.html, style.css, app.js và các tài l
 
 ## Giới hạn
 Giá, thông số, địa chỉ, hotline, đánh giá và hình minh họa không phải dữ liệu bán hàng xác minh. Email .example không hoạt động. Đăng nhập chỉ so khớp thông tin mẫu ở trình duyệt, không có backend, không bảo mật tài khoản thật. Không lưu mật khẩu hoặc gửi dữ liệu; trạng thái mất khi tải lại trang. Không thanh toán hay đặt hàng thật. Hình SVG tự tạo, không phải ảnh chính thức.
+1. Sơ đồ cấu trúc thư mục
+ MOTO24H/
+
+
+ index.html
+
+
+ style.css
+
+
+ app.js
+
+
+ README.md
+
+
+ AI_LOG.md
+
+
+ RELEASE_NOTES.md
+
+
+ evidence/
+
+
+ desktop.png
+
+
+ mobile-320.png
+
+
+ mobile-390.png
+
+
+ test-results.json
