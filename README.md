@@ -1,7 +1,7 @@
 # MOTO 24H – FIT4014 A3
 Website cửa hàng xe máy mô phỏng. Mở index.html bằng Chrome hoặc dùng Live Server. HTML5/CSS3/JavaScript thuần, không cần cài thư viện.
 
-## Demo https://github.com/duongsytien/MO_PHONG_MOTO_FIT404.git
+## Demo  https://duongsytien.github.io/MO_PHONG_MOTO_FIT404/
 - Lọc loại xe, tìm kiếm, sắp xếp giá, xem chi tiết và thêm/bỏ quan tâm.
 - Đăng nhập bằng demo@moto24h.example / Moto24h@123; đăng xuất qua nút Tài khoản.
 - Xem và thêm đánh giá trong phiên trang.
