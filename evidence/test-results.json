@@ -1,0 +1,20 @@
+{
+  "initial_9": true,
+  "filter_4": true,
+  "sort": true,
+  "search": true,
+  "detail": true,
+  "saved": true,
+  "wrong_login": true,
+  "login": true,
+  "logout": true,
+  "review": true,
+  "no_overflow_390": true,
+  "no_overflow_320": true,
+  "js_errors": [],
+  "method": "Chromium set_content with inlined source; fresh page per viewport; no public URL tested",
+  "no_overflow_1440": true,
+  "catalog_1440": true,
+  "catalog_390": true,
+  "catalog_320": true
+}
